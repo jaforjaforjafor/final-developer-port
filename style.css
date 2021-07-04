@@ -1,8 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
+    
 }
 h1{
     font-size: 50px;
+    padding: 25px;
 }
 .blue-color{
     color: blue;
@@ -32,4 +34,8 @@ section{
     font-weight: 700;
     border-radius:5px ;
 }
-
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
