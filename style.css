@@ -8,10 +8,28 @@ h1{
     color: blue;
 }
 h3{
-    padding-right: 10%;
-    margin-left: 20px;
+    
     background-color: cadetblue;
 }
 p{
     margin-left: 20px;
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(52, 8, 247), rgb(9, 168, 241));
+    padding: 10px 40px;
+    color:red;
+    font-weight: 700;
+    border-radius:5px ;
+}
+
