@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.blue-color{
+    color: blue;
+}
+h3{
+    padding-right: 10%;
+    margin-left: 20px;
+    background-color: cadetblue;
+}
+p{
+    margin-left: 20px;
+}
